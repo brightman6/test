@@ -1,2 +1,2 @@
-amend test
+amend test.
 
